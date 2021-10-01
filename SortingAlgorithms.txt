@@ -3,3 +3,5 @@ HeapSort Algorithm
 QuickSort Algorithm
 BubbleSort Algorithm
 SelectionSort Algorithm
+CountSort Algorithm
+RadixSort Algorithm
