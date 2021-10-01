@@ -1,3 +1,5 @@
 MergeSort Algorithm
 HeapSort Algorithm
 QuickSort Algorithm
+BubbleSort Algorithm
+SelectionSort Algorithm
