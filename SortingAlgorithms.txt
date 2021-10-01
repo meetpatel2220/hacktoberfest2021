@@ -1,0 +1,3 @@
+MergeSort Algorithm
+HeapSort Algorithm
+QuickSort Algorithm
