@@ -1,2 +1,4 @@
-this repo is for very biggeners 
-in this repo you just create new file and send pull request
+This repository is for beginners 
+Fork this repository 
+create new file in any folder (like java,cpp)
+send pull request
