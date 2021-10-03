@@ -20,4 +20,4 @@ for i in range(len(A)):
 # Driver code to test above
 print ("Sorted array")
 for i in range(len(A)):
-    print("%d" %A[i]),
+    print("%d" %A[i])
