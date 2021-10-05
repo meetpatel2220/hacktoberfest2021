@@ -18,7 +18,7 @@ int main()
 
     int n = ((sizeof arr) / (sizeof arr[0]));
 
-    cout << "before sorting: \n";
+    cout <<"before sorting: "<<endl;
     printArray(arr, n);
 
 
@@ -42,7 +42,7 @@ int main()
         }
     }
 
-    cout << "\n\nafter sorting: \n";
+    cout << "\n\nafter sorting: "<<endl;
     printArray(arr, n);
     cout << "\n\n";
 }
